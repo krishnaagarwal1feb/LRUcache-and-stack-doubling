@@ -20,7 +20,7 @@ void push(int item)
 {
         if ( top >= cap-1 )
 	{
-		cout<<"stack doubling";
+		printf("stack doubling\n");
 		stackfull();
 	}
        	++top;
