@@ -1,0 +1,2 @@
+The LRU Cache uses the concepts of hashing and doubly linked list.
+The hashing increases the speed of processing and doubly ll helps to move the data in and out of cache memory.
